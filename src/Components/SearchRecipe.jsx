@@ -6,7 +6,7 @@ const SearchRecipe = () => {
     return (
         <div>
 
-            
+            <Header />
             <div className="container">
 
 
